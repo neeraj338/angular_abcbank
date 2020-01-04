@@ -1,4 +1,4 @@
-Angular Material Demo
+Angular Demo
 =============
 
 
